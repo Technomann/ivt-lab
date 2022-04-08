@@ -82,7 +82,7 @@ public class GT4500 implements SpaceShip {
           firingSuccess = secondaryTorpedoStore.fire(secondaryTorpedoStore.getTorpedoCount()) || primaryTorpedoStore.fire(primaryTorpedoStore.getTorpedoCount());
 
         
-        //EZ ITT A SZERKESZTÉS BRANCH-A
+        //EZ ITT A SZERKESZTÉS BRANCH-B
         break;
     }
 
